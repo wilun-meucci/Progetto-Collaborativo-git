@@ -1,0 +1,10 @@
+.titolo_galleria{
+    text-align: center;
+    font-size: 150px;
+    color: red;
+}
+
+.immagini_carousel{
+    height: 400px;
+    width: 400px;
+}
